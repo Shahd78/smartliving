@@ -1,0 +1,6 @@
+
+name: smart_living_hub
+description: A smart living hub project for managing smart devices.
+version: 1.0.0
+environment:
+  sdk: '>=2.12.0 <3.0.0'
